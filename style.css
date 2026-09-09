@@ -1,0 +1,58 @@
+
+#main-headinge {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.highlight {
+    color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header-div {
+    border: 2px solid black;
+    margin: 10px;
+    padding: 5px;
+    position: static;
+}
+
+.main-div {
+    border: 2px solid black;
+    margin: 15px;
+    padding: 12px;
+    position: relative;
+    top: 10px; 
+    left: 10px;
+}
+.footer-div {
+    border: 2px solid black;
+    margin: 100px;
+    padding: 52px;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+
+p {
+    font-size: 1.1em;  
+}
+h1 {
+    font-size: 30px; 
+}
+
+.right-box {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 2px;
+}
+
+.left-box {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 2px;
+}
+
+.box {
+    display: flex;
+}   
