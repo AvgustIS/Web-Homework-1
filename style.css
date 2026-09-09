@@ -56,3 +56,7 @@ h1 {
 .box {
     display: flex;
 }   
+
+table {
+    border: 1px;
+}
