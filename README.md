@@ -1,3 +1,4 @@
+<img width="1903" height="894" alt="Screenshot 2026-09-14 184912" src="https://github.com/user-attachments/assets/6f4505b0-829e-4c4f-9b49-242f420cba38" />
 # Assignment #1: HTML & CSS Basics — Report
 
 **Name:** Isaali Abdunabi  
@@ -36,11 +37,13 @@ The objective of this assignment is to understand the core structure and purpose
 ## Screenshots
 
 * **Main Page Structure & Heading Section**  
-  <img width="1904" height="901" alt="Screenshot 2026-09-09 161637" src="https://github.com/user-attachments/assets/3b9efcf3-690a-47dd-a94a-4e43604d9a11" />
+  <img width="1903" height="894" alt="Screenshot 2026-09-14 184912" src="https://github.com/user-attachments/assets/4949b1e7-3438-4c38-97c8-28abd8f8347b" />
 
 
 * **Hobbies List, Schedule Table, and Form AND CSS Styling, Div Layouts & Box Model**  
-<img width="1901" height="627" alt="Screenshot 2026-09-09 161653" src="https://github.com/user-attachments/assets/08bcd0d7-6336-42cc-9bec-2e3385676ba1" />
+<img width="1892" height="890" alt="Screenshot 2026-09-14 184948" src="https://github.com/user-attachments/assets/2172c81b-0c38-46ab-9d75-413fa0a9c8c4" />
+<img width="1901" height="888" alt="Screenshot 2026-09-14 184935" src="https://github.com/user-attachments/assets/c5b966fe-78c3-4f3a-a57d-20d7868b033b" />
+
 
 ---
 
