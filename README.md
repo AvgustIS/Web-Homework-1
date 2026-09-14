@@ -1,4 +1,3 @@
-<img width="1903" height="894" alt="Screenshot 2026-09-14 184912" src="https://github.com/user-attachments/assets/6f4505b0-829e-4c4f-9b49-242f420cba38" />
 # Assignment #1: HTML & CSS Basics — Report
 
 **Name:** Isaali Abdunabi  
