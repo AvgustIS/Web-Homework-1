@@ -2,14 +2,10 @@
 
 **Name:** Isaali Abdunabi  
 **Group:** IT-2502  
-**GitHub Repository Link:** [https://github.com/AvgustIS/Web-Homework-1](https://github.com/AvgustIS/Web-Homework-1)
-
----
 
 ## Objective
 The objective of this assignment is to understand the core structure and purpose of HTML, implement basic and intermediate tags, style the webpage using inline, internal, and external CSS, utilize layout mechanics such as the box model and positioning, and finally publish the functional project online via GitHub Pages.
 
----
 
 ## Description of Steps Taken & Implementation
 
@@ -31,7 +27,6 @@ The objective of this assignment is to understand the core structure and purpose
 **Step 18 to 20:** Experimented with CSS positioning techniques (static, relative, and absolute), varied sizing units (px, rem), and established side-by-side content containers using float paired with clear to prevent layout overlapping.
 **Step 21:** Successfully deployed and published the complete webpage live online using GitHub Pages.
 
----
 
 ## Screenshots
 
