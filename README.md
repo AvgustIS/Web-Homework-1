@@ -43,9 +43,3 @@ The objective of this assignment is to understand the core structure and purpose
 <img width="1896" height="886" alt="Screenshot 2026-09-14 190435" src="https://github.com/user-attachments/assets/d6785f85-607a-4de2-9f30-d14fc4b53449" />
 <img width="1892" height="890" alt="Screenshot 2026-09-14 184948" src="https://github.com/user-attachments/assets/2172c81b-0c38-46ab-9d75-413fa0a9c8c4" />
 
-
-
----
-
-## Brief Summary of Work Process
-The development process started by establishing a local repository structure for `Web-Homework-1` and writing the foundational HTML tags inside `index.html`. After building out structural sections like tables, lists, and forms, I created an external `style.css` file to design the interface layout. I utilized classes, IDs, the box model, and floating properties to refine the visual presentation. Finally, version control was handled via Git, pushing the completed codebase to GitHub and enabling GitHub Pages for public deployment.
