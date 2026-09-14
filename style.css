@@ -1,24 +1,53 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.headerhead {
+    background-color: burlywood;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    width: 800px;
+}
+.headl {
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
 
 #main-headinge {
     color: red;
     font-family: 'Times New Roman', Times, serif;
-
+    background-color:saddlebrown;
 }
 
 .highlight {
-    color: blanchedalmond;
+    color: firebrick;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    width: 140px;
+    
+}
+
+.information {
+    background-color: rgb(27, 234, 106);
+    display: flex;
+    padding: 0 20px 0 0;
 }
 
 .header-div {
     border: 2px solid black;
+    background-color: brown;
     margin: 10px;
-    padding: 5px;
+    padding: 10px;
     position: static;
 }
 
 .main-div {
     border: 2px solid black;
+    background-color: rgb(255, 44, 86);
     margin: 15px;
     padding: 12px;
     position: relative;
@@ -27,12 +56,30 @@
 }
 .footer-div {
     border: 2px solid black;
+    background-color: rgb(237, 227, 82);
     margin: 100px;
     padding: 52px;
     position: absolute;
-    top: 400px;
-    right: 500px;
+    top: 1400px;
+    right: 1000px;
 }
+
+.formt {
+    background-color: rgb(125, 81, 127);
+    width: 200px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.for{
+    margin: 1px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
 
 p {
     font-size: 1.1em;  
@@ -44,10 +91,11 @@ h1 {
 .right-box {
     display: flex;
     border: 2px solid black;
+    background-color: chartreuse;
     padding: 10px;
     margin: 2px;
-    width: 300px;
-    height: 200px;
+    width: 90px;
+    height: 90px;
     font-size: large;
     justify-content: center;
     align-items: center;
@@ -56,10 +104,11 @@ h1 {
 .left-box {
     display: flex;
     border: 2px solid black;
+    background-color: rgb(0, 157, 255);
     padding: 10px;
     margin: 2px;
-    width: 300px;
-    height: 200px;
+    width: 90px;
+    height: 90px;
     font-size: large;
     justify-content: center;
     align-items: center;
@@ -67,12 +116,20 @@ h1 {
 
 .box {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-around; 
 }   
 
 table {
-    border: 2px solid black;
+    border: 2px solid rgb(0, 0, 0);
+    width: 300px;
+    height: 300px;
+    text-align: center;
 }
-tr {
-    border: 1px solid black;
+th {
+    background-color: aqua;
+}
+td {
+    background-color: blue;
+    color: white;
+
 }
