@@ -39,9 +39,10 @@ The objective of this assignment is to understand the core structure and purpose
   <img width="1903" height="894" alt="Screenshot 2026-09-14 184912" src="https://github.com/user-attachments/assets/4949b1e7-3438-4c38-97c8-28abd8f8347b" />
 
 
-* **Hobbies List, Schedule Table, and Form AND CSS Styling, Div Layouts & Box Model**  
+* **Hobbies List, Schedule Table, and Form AND CSS Styling, Div Layouts & Box Model**
+<img width="1896" height="886" alt="Screenshot 2026-09-14 190435" src="https://github.com/user-attachments/assets/d6785f85-607a-4de2-9f30-d14fc4b53449" />
 <img width="1892" height="890" alt="Screenshot 2026-09-14 184948" src="https://github.com/user-attachments/assets/2172c81b-0c38-46ab-9d75-413fa0a9c8c4" />
-<img width="1901" height="888" alt="Screenshot 2026-09-14 184935" src="https://github.com/user-attachments/assets/c5b966fe-78c3-4f3a-a57d-20d7868b033b" />
+
 
 
 ---
